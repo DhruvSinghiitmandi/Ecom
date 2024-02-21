@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "Counter-Strike: Global Offensive",
+      "image": "https://steamcdn-a.akamaihd.net/steam/apps/730/header.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dota 2",
+      "image": "https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Among Us",
+      "image": "https://steamcdn-a.akamaihd.net/steam/apps/945360/header.jpg"
+    },
+    {
+      "id": 4,
+      "name": "The Witcher 3: Wild Hunt",
+      "image": "https://steamcdn-a.akamaihd.net/steam/apps/292030/header.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rocket League",
+      "image": "https://steamcdn-a.akamaihd.net/steam/apps/252950/header.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Stardew Valley",
+      "image": "https://steamcdn-a.akamaihd.net/steam/apps/413150/header.jpg"
+    }
+  ]

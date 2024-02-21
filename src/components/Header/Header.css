@@ -1,0 +1,35 @@
+.Header{
+    display: flex;   
+    padding-bottom: 5px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: rgb(179, 169, 81);
+    color: aliceblue;
+    padding-bottom: 1vh;
+    
+}
+.description{
+    font-weight: bold;
+    font-size: large;
+}
+.HeaderH{
+    display: flex;
+    background-color: rgba(53, 52, 49, 0.842);
+    padding-bottom: 2px;
+    margin: 0;
+    width: 30vh;
+   height: 6vh;
+   border: 2px ;
+   margin-right: 5vh;
+   border-radius: 0 0 10px 0;    
+}
+
+.HeaderH:hover{
+    display: flex;
+    background-color: rgba(199, 178, 58, 0.842);
+    margin: 0;
+    width: 31vh;
+   height: 7vh;
+   border: 2px ;
+   border-radius: 0 0 10px 0;    
+   margin-right: 5vh;
+}

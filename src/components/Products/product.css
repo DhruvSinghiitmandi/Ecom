@@ -1,0 +1,52 @@
+.prodcont {
+    width: 100%;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap; 
+  }
+  
+  
+  .item {
+    display: inline-block;
+    margin: 3%;
+    width: 20%; /* Display 3 items per row */
+    box-sizing: border-box;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Optional: Add styling to item name and button */
+  .itemname {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  
+  /* Optional: Add styling to navigation buttons */
+  .carousel-button {
+    cursor: pointer;
+    font-size: 18px;
+    background: #333;
+    color: #fff;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+  }
+  
